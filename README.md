@@ -16,7 +16,7 @@
 
 <!-- ![Profile views](https://gpvc.arturio.dev/Zeuxcnm) -->
 
-[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/689142154135732251?theme=dark&bg=272727)](https://discord.com/users/852624608505888769)
+[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/689142154135732251?theme=dark&bg=272727)](https://discord.com/users/976427867858669599)
 
 ## 🏆 Trophies
 [![](https://github-profile-trophy.vercel.app/?username=Zeuxcnm&theme=juicyfresh&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB,C,CC,CCC)][repo]
@@ -142,13 +142,3 @@
 [repo]: https://github.com/Zeuxcnm?tab=repositories
 
 <hr />
-
-### **Thanks for checking out my GitHub Profile!** 🙏
-
-<br />
-
-[![](https://ForTheBadge.com/images/badges/built-with-love.svg)][repo]
-
-<!-- ![](https://img.shields.io/github/followers/Zeuxcnm?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917) -->
-
-<!--  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeuxcnm&theme=onedark) -->

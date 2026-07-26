@@ -14,15 +14,6 @@
 • 📫 You can reach me via <a href="https://discord.gg/RXat8djad6"><b>Discord</b>
 </span>
 
-<!-- ![Profile views](https://gpvc.arturio.dev/Zeuxcnm) -->
-
-[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/689142154135732251?theme=dark&bg=272727)](https://discord.com/users/976427867858669599)
-
-## 🏆 Trophies
-[![](https://github-profile-trophy.vercel.app/?username=Zeuxcnm&theme=juicyfresh&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB,C,CC,CCC)][repo]
-
-<!-- <a href="http://www.github.com/Zeuxcnm"><img src="https://activity-graph.herokuapp.com/graph?username=Zeuxcnm&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
-
 <br />
 
 ## 🌏 **CONNECT WITH ME**

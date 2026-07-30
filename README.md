@@ -1,18 +1,15 @@
-<!-- YENİ KIRMIZI VE HAREKETLİ BAŞLIK -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=200&section=header&text=ZEUX.DEV&fontSize=80&fontColor=FF0000&animation=growX&fontAlignY=40&desc=MASTER%20DISCORD%20BOT%20DEVELOPER%20%E2%80%A2%20T%C3%9CRK%C4%B0YE&descColor=FF4500&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=180&section=header&text=Hi%20I'm%20Zeux!&fontSize=70&fontColor=00f3ff&animation=fadeIn&fontAlignY=38&desc=Discord%20Bot%20Developer%20%E2%80%A2%20Türkiye&descColor=a29bfe&descSize=22" width="100%" />
 </p>
 
 <div align="center">
 
-<!-- Hareketli Profil Gif'i (Ateş temalı) -->
-<img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-655_512.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
 
-# 🔥 Zeux.dev 🔥
+# ⚡ ZEUX.DEV ⚡
 
-<!-- Ziyaretçi Sayacı (Kırmızı temalı) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zeuxcnm&style=for-the-badge&color=red&label=PROFILE+VIEWS" alt="Zeuxcnm" />
+  <img src="https://komarev.com/ghpvc/?username=Zeuxcnm&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Zeuxcnm" />
 </p>
 
 </div>
@@ -21,7 +18,7 @@
 
 ### 🚀 **Who Am I?**
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/Codelessly/Codelessly/master/assets/images/codelessly_pink_skyline.gif" style="margin-left: 2rem;">
+<img align="right" width="320" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-left: 2rem;">
 
 * 💻 **Discord Bot Developer from Türkiye.**
 * ⚡ I develop modern, scalable, and efficient Discord bots using **JavaScript**, **Node.js**, and advanced backend systems.
@@ -59,9 +56,8 @@
 
 ---
 
-<!-- ALT BÖLÜM: Kırmızı ve Hareketli -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=50&section=footer&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,30,40&height=50&section=footer" width="100%" />
 </p>
 
 [repo]: https://github.com/Zeuxcnm?tab=repositories

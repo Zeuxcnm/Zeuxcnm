@@ -4,7 +4,7 @@
 
 **Türkiye'den Discord Bot Geliştiricisi.**
 <br/>**JavaScript, HTML ve CSS Ve Pwn kullanarak modern, ölçeklenebilir ve verimli Discord botları geliştiriyorum.**
-<br/>**Özel Discord sistemleri ve otomasyonu geliştirme konusunda 3 yılı aşkın deneyim.**
+<br/>**Özel Discord sistemleri ve moderasyon geliştirme konusunda 3 yılı aşkın deneyim.**
 
 ## Fun Fact 🎈:
 

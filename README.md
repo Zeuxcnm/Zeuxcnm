@@ -1,39 +1,42 @@
-````md
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,2,0,20&text=ZEUX&fontColor=ffffff&fontSize=80&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0D0D0D,30:400000,60:8B0000,100:FF0000&text=ZEUX&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=FF1A1A&center=true&vCenter=true&width=800&lines=Discord+Bot+Developer;Node.js+Developer;JavaScript+Engineer;Building+Powerful+Discord+Systems;Welcome+To+My+GitHub."/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3500&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Discord+Bot+Developer;Node.js+Developer;Backend+Engineer;MongoDB+%7C+JavaScript;Building+Modern+Discord+Systems"/>
 
-<img src="https://komarev.com/ghpvc/?username=Zeuxcnm&label=PROFILE+VIEWS&color=ff0000&style=for-the-badge"/>
+<br>
+
+![](https://komarev.com/ghpvc/?username=Zeuxcnm&label=PROFILE+VIEWS&style=for-the-badge&color=red)
 
 </div>
 
 ---
 
-# <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="35"> About Me
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35"> About Me
 
-```js
-class Zeux {
+```javascript
+const Zeux = {
 
-    constructor() {
+    Name: "Zeux",
 
-        this.name = "Zeux";
-        this.country = "Türkiye";
-        this.role = "Discord Bot Developer";
+    Country: "Türkiye",
 
-        this.speciality = [
-            "Discord Bots",
-            "Moderation Systems",
-            "Dashboard Systems",
-            "MongoDB",
-            "Node.js"
-        ];
+    Role: "Discord Bot Developer",
 
-        this.experience = "5+ Years";
-        this.status = "Always Learning";
-    }
+    Experience: "5+ Years",
 
+    Languages: [
+        "JavaScript",
+        "Node.js",
+        "HTML",
+        "CSS"
+    ],
+
+    Database: [
+        "MongoDB"
+    ],
+
+    Currently: "Building powerful Discord systems."
 }
 ```
 
@@ -43,7 +46,7 @@ class Zeux {
 
 # ⚡ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,mongodb,html,css,git,github,vscode,npm"/>
+<img src="https://skillicons.dev/icons?i=js,nodejs,mongodb,html,css,git,github,vscode,npm,discord"/>
 
 </div>
 
@@ -51,11 +54,17 @@ class Zeux {
 
 <div align="center">
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Zeuxcnm&show_icons=true&theme=transparent&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff"/>
 
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Zeuxcnm&theme=highcontrast&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeuxcnm&layout=compact&theme=transparent&hide_border=true&title_color=ff0000&text_color=ffffff"/>
 
@@ -65,13 +74,9 @@ class Zeux {
 
 <div align="center">
 
-# 🚀 Technologies
+# 🏆 GitHub Trophies
 
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=ff0000"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ff0000"/>
-<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=ff0000"/>
-<img src="https://img.shields.io/badge/Discord.js-000000?style=for-the-badge&logo=discord&logoColor=ff0000"/>
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff0000"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Zeuxcnm&theme=onestar&no-frame=true&margin-w=12&row=2&column=4"/>
 
 </div>
 
@@ -79,9 +84,9 @@ class Zeux {
 
 <div align="center">
 
-# 🎧 Discord Presence
+# 🎧 Discord
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/976427867858669599?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=25px)](https://discord.com/users/976427867858669599)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/976427867858669599?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/976427867858669599)
 
 </div>
 
@@ -89,14 +94,29 @@ class Zeux {
 
 <div align="center">
 
-# 🌐 Contact
+# 🚀 Current Focus
+
+```text
+▰▰▰▰▰▰▰▰▱▱  Discord.js
+▰▰▰▰▰▰▰▱▱▱  Node.js
+▰▰▰▰▰▰▱▱▱▱  MongoDB
+▰▰▰▰▰▱▱▱▱▱  Web Dashboard
+```
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌐 Connect
+
+<a href="https://github.com/Zeuxcnm">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="https://discord.gg/RXat8djad6">
 <img src="https://img.shields.io/badge/Discord-FF0000?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Zeuxcnm">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -115,11 +135,19 @@ class Zeux {
 
 <div align="center">
 
-# 💀 Quote
+# 💀 Philosophy
 
-> **"I don't build ordinary bots. I build systems."**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=gradient&customColorList=12,2,0,20"/>
+```txt
+"Code is not just written.
+It is designed, optimized and perfected."
+```
 
 </div>
-````
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:FF0000,40:8B0000,100:0D0D0D"/>
+
+</div>
